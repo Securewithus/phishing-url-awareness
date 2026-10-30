@@ -51,4 +51,4 @@ Use sample strings only. Do not collect credentials. Do not use this
 project to deceive anyone or to test websites without permission.
 
 ## Author
-[Your name], [batch or course], EWB Courses
+Akash Tiwari, AI-POWERED CYBERSECURITY INTERNSHIP, EWB Courses
